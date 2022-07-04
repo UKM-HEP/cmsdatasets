@@ -63,5 +63,11 @@ RunI = {
         'DY1JetsToLL_M-10To50' : 'https://opendata.cern.ch/record/7718',
         'DY3JetsToLL_M-50'     : 'https://opendata.cern.ch/record/7722',
         'DY1JetsToLL_M-10To50' : 'https://opendata.cern.ch/record/7718',
+    },
+    # miniaod
+    '13TeV' : {
+        'DYJetsToLL_M-50_LO'      : 'https://opendata.cern.ch/record/16465',
+        'DYJetsToLL_M-50_NLO'     : 'https://opendata.cern.ch/record/16459',
+        'DYJetsToLL_M-10to50_NLO' : 'https://opendata.cern.ch/record/16428',
     }
 }
