@@ -3,7 +3,7 @@ Repository for storing filelist of opendata for CMS experiments, [Terms of use](
 
 ## CMS Open Data Environment
 - [Running CMS analysis code using Docker](https://opendata.cern.ch/docs/cms-guide-docker)
-- [Condition Database](https://opendata.cern.ch/docs/cms-guide-for-condition-database)
+- [CMS Guide to the CMS condition database](https://opendata.cern.ch/docs/cms-guide-for-condition-database)
 
 ## Useful information
 - [CMS Open Data Guide](https://cms-opendata-guide.web.cern.ch/)
