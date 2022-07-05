@@ -1,0 +1,3 @@
+root://eospublic.cern.ch//eos/opendata/cms/Run2012B/SingleElectron/AOD/22Jan2013-v1/20002/00C2DA13-4981-E211-805E-003048F23D8C.root
+root://eospublic.cern.ch//eos/opendata/cms/Run2012B/SingleElectron/AOD/22Jan2013-v1/20002/606CB7D2-1582-E211-AEBC-0025901DD0C4.root
+root://eospublic.cern.ch//eos/opendata/cms/Run2012B/SingleElectron/AOD/22Jan2013-v1/20002/606F6A66-9F81-E211-BCB8-0025901AF410.root
