@@ -64,10 +64,38 @@ RunI = {
         'DY3JetsToLL_M-50'     : 'https://opendata.cern.ch/record/7722',
         'DY1JetsToLL_M-10To50' : 'https://opendata.cern.ch/record/7718',
     },
-    # miniaod
+    # aod 2015
     '13TeV' : {
-        'DYJetsToLL_M-50_LO'      : 'https://opendata.cern.ch/record/16465',
-        'DYJetsToLL_M-50_NLO'     : 'https://opendata.cern.ch/record/16459',
-        'DYJetsToLL_M-10to50_NLO' : 'https://opendata.cern.ch/record/16428',
+        # Data
+        'SingleElectron' : {
+            'RunD' : 'http://opendata.web.cern.ch/record/24103'   
+        },
+        'SingleMuon' : {
+            'RunD' : 'http://opendata.web.cern.ch/record/24102'
+        },
+        'DoubleMuon' : {
+            'RunD' : 'http://opendata.web.cern.ch/record/24110'
+        },
+        'DoubleMuonLowMass' : {
+            'RunD' : 'http://opendata.web.cern.ch/record/24109'
+        },
+        'MuonEG' : {
+            'RunD' : 'http://opendata.web.cern.ch/record/24104'
+        },
+        'DoubleEG' : {
+            'RunD' : 'http://opendata.web.cern.ch/record/24115'
+        },
+        'MuOnia' : {
+            'RunD' : 'http://opendata.web.cern.ch/record/24105'
+        },
+        
+        # MC (miniaod)
+        'DYJetsToLL_M-50_LO'           : 'https://opendata.cern.ch/record/16466',
+        'DYJetsToLL_M-50_LO-ext1'      : 'https://opendata.cern.ch/record/16465',
+        'DYJetsToLL_M-50_NLO'          : 'https://opendata.cern.ch/record/16459',
+        'DYJetsToLL_M-5to50_LO'        : 'https://opendata.cern.ch/record/16478',
+        'DYJetsToLL_M-10to50_NLO'      : 'https://opendata.cern.ch/record/16428',
+        'DYJetsToLL_M-10to50_NLO-ext1' : 'https://opendata.cern.ch/record/16429',
+        'DYJetsToLL_M-10to50_NLO-ext3' : 'https://opendata.cern.ch/record/16430',
     }
 }
