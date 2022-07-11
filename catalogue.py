@@ -1,7 +1,17 @@
 # https://opendata.cern.ch/docs/cms-simulated-dataset-names
+# https://opendata.cern.ch/docs/cms-guide-for-condition-database
+# ERA                       CMSSW          Docker
+# 2011-2012 proton-proton ; CMSSW_5_3_32 ; cmsopendata/cmssw_5_3_32-slc6_amd64_gcc472
 
-RunI = {
+Run = {
+    # 2011 p-p datasets
     '7TeV' : {
+        # Metadata
+        'MetaData' : {
+            'GJSON'   : { 'Cert_160404-180252_7TeV_ReRecoNov08_Collisions11_JSON.txt' : 'http://opendata.web.cern.ch/record/1001' }, 
+            'GT_DATA' : 'FT_53_LV5_AN1',
+            'GT_MC'   : 'START53_LV6A1'
+        }
         # Data
         'SingleElectron' : {
             'RunA' : 'https://opendata.cern.ch/record/31',
@@ -27,11 +37,19 @@ RunI = {
             'RunA' : 'https://opendata.cern.ch/record/27',
             'RunB' : 'https://opendata.cern.ch/record/280'
         },
+        # MC
         'JPsiToMuMu_2MuPEtaFilter' : 'https://opendata.cern.ch/record/1335',
         'DYJetsToLL_M-10To50'      : 'https://opendata.cern.ch/record/1393',
         'DYJetsToLL_M-50'          : 'https://opendata.cern.ch/record/1394'
     },
+    # 2012 p-p dataset
     '8TeV' : {
+        # Metadata
+        'MetaData' : {
+            'GJSON'   : { 'Cert_190456-208686_8TeV_22Jan2013ReReco_Collisions12_JSON.txt' : 'http://opendata.web.cern.ch/record/1002' },
+            'GT_DATA' : 'FT53_V21A_AN6_FULL',
+            'GT_MC'   : 'START53_V27'
+        },
         # Data
         'SingleElectron' : {
             'RunB' : 'https://opendata.cern.ch/record/6020',
@@ -66,6 +84,12 @@ RunI = {
     },
     # aod 2015
     '13TeV' : {
+        # Metadata
+        'MetaData' : {
+            'GJSON'   : '',
+            'GT_DATA' : '76X_dataRun2_16Dec2015_v0',
+            'GT_MC'   : '76X_mcRun2_asymptotic_RunIIFall15DR76_v1'
+        },
         # Data
         'SingleElectron' : {
             'RunD' : 'http://opendata.web.cern.ch/record/24103'   
