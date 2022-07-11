@@ -17,7 +17,7 @@ Repository for storing filelist of opendata for CMS experiments, [Terms of use](
 
 ## CMS luminosity information
 - [2012 CMS open data](http://opendata.web.cern.ch/record/1052)
-- [Detailed 2012 CMS open data](http://opendata.web.cern.ch/record/1054)
+- [CMS detailed luminosity information, for 2012 CMS open data](http://opendata.web.cern.ch/record/1054)
 
 ## Useful information
 - [CMS Open Data Guide](https://cms-opendata-guide.web.cern.ch/)
