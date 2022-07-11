@@ -6,13 +6,14 @@ cwd = os.getcwd()
 docker_copy="docker run --privileged -v ${PWD}/XX_COM_XX:/code:rw -it --rm cernopendata/cernopendata-client download-files --recid XX_RECID_XX --no-expand --protocol xrootd"
 
 # COM
-for icom in RunI:
+for icom in Run:
     # datasets
     COM_PATH = '%s/%s' %( cwd , icom )
     if not os.path.exists( COM_PATH ) : os.system('mkdir -p %s' %COM_PATH )
     cmdcopy = docker_copy.replace( 'XX_COM_XX' , icom )
     
-    for ipd, datasets in RunI[icom].items():
+    for ipd, datasets in Run[icom].items():
+        if ipd == 'MetaData' : continue
         isData = type(datasets) is dict
         if isData:
             # run period
