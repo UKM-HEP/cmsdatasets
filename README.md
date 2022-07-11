@@ -6,7 +6,7 @@ Repository for storing filelist of opendata for CMS experiments, [Terms of use](
 - [CMS Simulated Dataset Names](http://opendata.web.cern.ch/docs/cms-simulated-dataset-names)
 - [CMS Monte Carlo production overview](https://opendata.cern.ch/docs/cms-mc-production-overview)
 
-## CMS Open Data
+## CMS Open Data Preperation
 - [Running CMS analysis code using Docker](https://opendata.cern.ch/docs/cms-guide-docker)
 - [CMS Guide to the CMS condition database](https://opendata.cern.ch/docs/cms-guide-for-condition-database)
 - [CMS Guide on how to calculate luminosity](https://opendata.cern.ch/docs/cms-guide-luminosity-calculation)
@@ -15,9 +15,11 @@ Repository for storing filelist of opendata for CMS experiments, [Terms of use](
 - [Getting Started with CMS 2011 Open Data](http://opendata.web.cern.ch/docs/cms-getting-started-2011)
 - [Getting Started with CMS 2015 Open Data](http://opendata.web.cern.ch/docs/cms-getting-started-2015)
 
-## CMS luminosity information
+## Luminosity information
 - [2012 CMS open data](http://opendata.web.cern.ch/record/1052)
 - [CMS detailed luminosity information, for 2012 CMS open data](http://opendata.web.cern.ch/record/1054)
+- [CMS list of validated runs for primary datasets of 2011 data taking](http://opendata.web.cern.ch/record/1001)
+- [CMS list of validated runs for primary datasets of 2012 data taking](http://opendata.web.cern.ch/record/1002)
 
 ## Useful information
 - [CMS Open Data Guide](https://cms-opendata-guide.web.cern.ch/)
