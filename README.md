@@ -8,6 +8,7 @@ Repository for storing filelist of opendata for CMS experiments, [Terms of use](
 - [Guide to the CMS Trigger System](https://opendata.cern.ch/docs/cms-guide-trigger-system)
 
 ## CMS Open Data Preperation
+- [CMS Guide to research use of CMS Open Data](https://opendata.cern.ch/docs/cms-guide-for-research)
 - [Running CMS analysis code using Docker](https://opendata.cern.ch/docs/cms-guide-docker)
 - [CMS Guide to the CMS condition database](https://opendata.cern.ch/docs/cms-guide-for-condition-database)
 - [CMS Guide on how to calculate luminosity](https://opendata.cern.ch/docs/cms-guide-luminosity-calculation)
