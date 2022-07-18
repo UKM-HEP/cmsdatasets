@@ -13,6 +13,7 @@ Repository for storing filelist of opendata for CMS experiments, [Terms of use](
 
 ## Getting Started with data
 - [Getting Started with CMS 2011 Open Data](http://opendata.web.cern.ch/docs/cms-getting-started-2011)
+- [CMS Physics Objects 2011] (https://opendata.cern.ch/docs/cms-physics-objects-2011)
 - [Getting Started with CMS 2015 Open Data](http://opendata.web.cern.ch/docs/cms-getting-started-2015)
 
 ## Luminosity information
