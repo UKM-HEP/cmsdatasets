@@ -5,6 +5,7 @@ Repository for storing filelist of opendata for CMS experiments, [Terms of use](
 - [Primary](http://opendata.web.cern.ch/glossary/Primary)
 - [CMS Simulated Dataset Names](http://opendata.web.cern.ch/docs/cms-simulated-dataset-names)
 - [CMS Monte Carlo production overview](https://opendata.cern.ch/docs/cms-mc-production-overview)
+- [Guide to the CMS Trigger System](https://opendata.cern.ch/docs/cms-guide-trigger-system)
 
 ## CMS Open Data Preperation
 - [Running CMS analysis code using Docker](https://opendata.cern.ch/docs/cms-guide-docker)
