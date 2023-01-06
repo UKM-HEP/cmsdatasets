@@ -11,7 +11,7 @@ Run = {
             'GJSON'   : { 'Cert_160404-180252_7TeV_ReRecoNov08_Collisions11_JSON.txt' : 'http://opendata.web.cern.ch/record/1001' }, 
             'GT_DATA' : 'FT_53_LV5_AN1',
             'GT_MC'   : 'START53_LV6A1'
-        }
+        },
         # Data
         'SingleElectron' : {
             'RunA' : 'https://opendata.cern.ch/record/31',
@@ -40,7 +40,8 @@ Run = {
         # MC
         'JPsiToMuMu_2MuPEtaFilter' : 'https://opendata.cern.ch/record/1335',
         'DYJetsToLL_M-10To50'      : 'https://opendata.cern.ch/record/1393',
-        'DYJetsToLL_M-50'          : 'https://opendata.cern.ch/record/1394'
+        'DYJetsToLL_M-50'          : 'https://opendata.cern.ch/record/1394',
+        'WJetsToLNu'               : 'http://opendata.cern.ch/record/1633'
     },
     # 2012 p-p dataset
     '8TeV' : {
@@ -52,28 +53,40 @@ Run = {
         },
         # Data
         'SingleElectron' : {
+            'RunA' : 'https://opendata.cern.ch/record/24415',
             'RunB' : 'https://opendata.cern.ch/record/6020',
-            'RunC' : 'https://opendata.cern.ch/record/6046'
+            'RunC' : 'https://opendata.cern.ch/record/6046',
+            'RunD' : 'https://opendata.cern.ch/record/24459'
         },
         'DoubleElectron' : {
+            'RunA' : 'https://opendata.cern.ch/record/24401',
             'RunB' : 'https://opendata.cern.ch/record/6003',
-            'RunC' : 'https://opendata.cern.ch/record/6029'
+            'RunC' : 'https://opendata.cern.ch/record/6029',
+            'RunD' : 'https://opendata.cern.ch/record/24444'
         },
         'SingleMu' : {
+            'RunA' : 'https://opendata.cern.ch/record/24416',
             'RunB' : 'https://opendata.cern.ch/record/6021',
-            'RunC' : 'https://opendata.cern.ch/record/6047'
+            'RunC' : 'https://opendata.cern.ch/record/6047',
+            'RunD' : 'https://opendata.cern.ch/record/24460'
         },
         'DoubleMuParked' : {
+            'RunA' : 'https://opendata.cern.ch/record/24403',
             'RunB' : 'https://opendata.cern.ch/record/6004',
-            'RunC' : 'https://opendata.cern.ch/record/6030'
+            'RunC' : 'https://opendata.cern.ch/record/6030',
+            'RunD' : 'https://opendata.cern.ch/record/24445'
         },
         'MuEG' : {
+            'RunA' : 'https://opendata.cern.ch/record/24409',
             'RunB' : 'https://opendata.cern.ch/record/6014',
-            'RunC' : 'https://opendata.cern.ch/record/6040'
+            'RunC' : 'https://opendata.cern.ch/record/6040',
+            'RunD' : 'https://opendata.cern.ch/record/24453'
         },
         'MuOnia' : {
+            'RunA' : 'https://opendata.cern.ch/record/24411',
             'RunB' : 'https://opendata.cern.ch/record/6016',
-            'RunC' : 'https://opendata.cern.ch/record/6042'
+            'RunC' : 'https://opendata.cern.ch/record/6042',
+            'RunD' : 'https://opendata.cern.ch/record/24455'
         },
         # MC
         'DYJetsToLL_M-50'      : 'https://opendata.cern.ch/record/7730' ,
@@ -81,6 +94,8 @@ Run = {
         'DY1JetsToLL_M-10To50' : 'https://opendata.cern.ch/record/7718',
         'DY3JetsToLL_M-50'     : 'https://opendata.cern.ch/record/7722',
         'DY1JetsToLL_M-10To50' : 'https://opendata.cern.ch/record/7718',
+        'W1JetsToLNu'          : 'http://opendata.cern.ch/record/9863',
+        'W3JetsToLNu'          : 'http://opendata.cern.ch/record/9865'
     },
     # aod 2015
     '13TeV' : {
