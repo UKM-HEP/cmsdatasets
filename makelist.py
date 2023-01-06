@@ -1,5 +1,5 @@
 import os
-from catalogue import RunI
+from catalogue import Run
 
 cwd = os.getcwd()
 
