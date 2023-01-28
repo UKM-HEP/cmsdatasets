@@ -1,0 +1,1 @@
+root://eospublic.cern.ch//eos/opendata/cms/Run2011A/MuOnia/AOD/12Oct2013-v1/00000/0027F2FC-2E44-E311-B491-003048678E52.root
